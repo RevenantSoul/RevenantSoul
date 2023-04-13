@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, C# and C++**
 
-- ⚡ Fun fact **I have a website https://revenant.dev**
+- ⚡ Fun fact **I have a website out of comission**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
