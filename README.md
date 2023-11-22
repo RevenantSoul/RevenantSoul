@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rev</h1>
-<h3 align="center">I am a Information & Data security engineer from the US</h3>
+<h3 align="center">I code things sometimes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revenantsoul&label=Profile%20views&color=0e75b6&style=flat" alt="revenantsoul" /> </p>
 
