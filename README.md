@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- ⚡ Fun fact **I have a website https://revenant.dev**
+- ⚡ Fun fact **I have a website**
 
 
 </p>
